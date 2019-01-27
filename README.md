@@ -1,2 +1,2 @@
-# Design-is-Resolution
+# Design is Resolution
 What is Design? It is Resolution.
