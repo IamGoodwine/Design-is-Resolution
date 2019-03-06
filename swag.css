@@ -1,0 +1,23 @@
+/*Author: Marco Buonvino*/ 
+
+/*GENERAL*/ 
+
+/*
+Palette: DiS 	
+#344954 Blue Gray 800
+#FFFFFF White
+*/ 
+
+body { 	
+background: #1A1110; 	
+font-family: 'Raleway', sans-serif; 	
+font-weight: 300; 	
+font-size: 1.5rem; 	
+line-height: 1.5; 	
+color: #fff; 	
+margin: 0; 	
+padding: 0; }
+
+a {
+color: #fff;
+} 
